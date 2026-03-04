@@ -105,7 +105,7 @@ All test cases were derived by exploring stage functionality. Test cases might n
 - Staging environment may not reflect production behavior
 - No known valid promo codes in staging
 - Sandbox payment provider behavior may differ in production
-- No access to record systems or server side validation
+- Limited system-of-record visibility. Admin portal confirms booking exists, but payment amount/processor capture not visible
 
 ## Scope
 
