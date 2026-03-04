@@ -71,7 +71,7 @@ npx playwright show-report
 - All tests run against the staging environment. Production parity is not guaranteed
 - Promo codes for staging are unknown
 - Sandbox payment provider behavior may differ in production
-- No access to record systems or server side validation
+- Limited system-of-record visibility. Admin portal confirms booking exists, but payment amount/processor capture not visible
 - Tests use standard sign in instead of google sign in
 
 ---
