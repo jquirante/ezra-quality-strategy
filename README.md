@@ -64,6 +64,7 @@ npx playwright show-report
 
 - **TC-05 (Happy Path)** — The primary booking + card payment flow is the highest-frequency user path and the baseline for all other tests. Regression on this path blocks revenue directly. It is the most valuable smoke test in CI.
 
+- **TC-07 (Pricing Summary)** is present but not complete due to time. Labeled fixme.
 ---
 
 ## Assumptions
