@@ -1,0 +1,19 @@
+{
+  "name": "ezra-quality-strategy",
+  "version": "1.0.0",
+  "description": "Risk based quality strategy and automation design for Ezra’s booking and member data flows.",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.58.2",
+    "dotenv": "^16.0.0"
+  }
+}
